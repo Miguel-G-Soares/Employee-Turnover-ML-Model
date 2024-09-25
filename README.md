@@ -1,20 +1,6 @@
 # Prediction of Salifort Motor's Employee turnover
 
 
-```python
-
-```
-
-
-```python
-
-```
-
-
-```python
-
-```
-
 
 ```python
 #Data manipulation
