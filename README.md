@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project's goal was to analyze employee data from Salifort Motors to identify key factors that contribute to employee turnover using various machine learning models. Predicting which employees are likely to leave the company, allows HR to take proactive steps to improve retention.
+This project's goal was to analyze employee data from Salifort Motors to identify key factors that contribute to employee turnover and create various machine learning models to predict whom is most at risk. Predicting which employees are likely to leave the company, allows HR to take proactive steps to improve retention.
 
 The dataset includes employee features like satisfaction, evaluation scores, tenure, and work-related statistics.
 
